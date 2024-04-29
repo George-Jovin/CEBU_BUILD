@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6776e7c.css",
+    "main.js": "/static/js/main.d1972e96.js",
+    "static/js/787.4c220f9e.chunk.js": "/static/js/787.4c220f9e.chunk.js",
+    "static/media/Travel-Origin.gif": "/static/media/Travel-Origin.c2f7a0c47f02ecb67b6c.gif",
+    "static/media/Travel-Baggage.gif": "/static/media/Travel-Baggage.ec17f21cb01ce2ba98aa.gif",
+    "static/media/aeroplane 1.gif": "/static/media/aeroplane 1.33f7ba356167bf380e45.gif",
+    "static/media/Travel-Insurance.gif": "/static/media/Travel-Insurance.b72c6a4867b5d14f6f90.gif",
+    "static/media/Booking-Channel.gif": "/static/media/Booking-Channel.441299535f7a0f744941.gif",
+    "static/media/Travel-Destination.gif": "/static/media/Travel-Destination.8e84e73d09d151d73b3e.gif",
+    "static/media/booking 1.gif": "/static/media/booking 1.11015473bc33923f97bd.gif",
+    "static/media/Frequent-Month.gif": "/static/media/Frequent-Month.1471cddefb26e2e7ef1b.gif",
+    "static/media/Travel-Meal.gif": "/static/media/Travel-Meal.5a26bce01448efa85a1c.gif",
+    "static/media/plane-tickets 1.gif": "/static/media/plane-tickets 1.3c83f596260ebd6b341a.gif",
+    "static/media/Month-Time.gif": "/static/media/Month-Time.e59d978d6619900a5490.gif",
+    "static/media/revenue 1.gif": "/static/media/revenue 1.f6e1dc4bcd4bf2cd8fc3.gif",
+    "static/media/Avatar Image.svg": "/static/media/Avatar Image.ebef7009e03ee6cfddc55f9d2df05333.svg",
+    "static/media/Link.svg": "/static/media/Link.bba7e20d9c3af63310b54b53f13382da.svg",
+    "static/media/Customer service agent.svg": "/static/media/Customer service agent.425db4224b66d068b9b1fe03c5f62c5f.svg",
+    "static/media/Booking.svg": "/static/media/Booking.6ffc0e32d413747c505c7d97122cadb6.svg",
+    "static/media/Destination.svg": "/static/media/Destination.6c33f8a4994b3f3caa2a86cd173a7be4.svg",
+    "static/media/Customer360.svg": "/static/media/Customer360.649fe673091cd29f8c8cdc390f80516a.svg",
+    "static/media/Customer review.svg": "/static/media/Customer review.b0dbe25a8419f406876233963c6daa2d.svg",
+    "static/media/Vector.svg": "/static/media/Vector.a6561dd0ac9f7168a64fba4289be144a.svg",
+    "static/media/ph_globe-hemisphere-east-light.svg": "/static/media/ph_globe-hemisphere-east-light.d53f74ada0352cbc1afd45669367236d.svg",
+    "static/media/ph_gender-intersex.svg": "/static/media/ph_gender-intersex.fdfec2250c57264fd00dde09958c2390.svg",
+    "static/media/Overlay.svg": "/static/media/Overlay.1710ece92553aed58a989e135b359656.svg",
+    "static/media/Microsoft.svg": "/static/media/Microsoft.9dda1898d1fab5bfdaa16c0a31d11810.svg",
+    "static/media/circum_mobile-2.svg": "/static/media/circum_mobile-2.128bd521a25ff51a73dc2ef71410905b.svg",
+    "static/media/Login.svg": "/static/media/Login.c5e6069b7229446aed19a30db4d22650.svg",
+    "static/media/carbon_email.svg": "/static/media/carbon_email.3e460aea259abf6f78c9f829deff750b.svg",
+    "index.html": "/index.html",
+    "static/media/account_circle.svg": "/static/media/account_circle.9d2b46def5259cfa87bb80275e19b85f.svg",
+    "main.a6776e7c.css.map": "/static/css/main.a6776e7c.css.map",
+    "main.d1972e96.js.map": "/static/js/main.d1972e96.js.map",
+    "787.4c220f9e.chunk.js.map": "/static/js/787.4c220f9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6776e7c.css",
+    "static/js/main.d1972e96.js"
+  ]
+}
